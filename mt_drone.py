@@ -16,7 +16,8 @@ Running `python mt_drone.py` does the whole pipeline:
 
 Note: Code was written in a hybrid way between me and LLMs. I came up with the structure
 and plan, and LLMs helped write the functions. I reviewed the code afterward and ran tests
-to check accuracy.
+to check accuracy. This version of the MT-DRONE was specifically cleaned up for a public release to maximize 
+reproducibility.
 """
 
 import os
