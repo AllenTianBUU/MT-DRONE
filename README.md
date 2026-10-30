@@ -16,7 +16,7 @@ There are two models, one script each:
 You need Python 3.10 or newer.
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/AllenTianBUU/MT-DRONE.git
 cd MT-DRONE
 pip install -r requirements.txt
 ```
